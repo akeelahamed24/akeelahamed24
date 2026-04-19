@@ -63,12 +63,17 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akeelahamed24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akeelahamed24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="stats"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akeelahamed24&theme=tokyonight&hide_border=true" alt="streak"/>
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeelahamed24&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeelahamed24&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top languages"/>
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=akeelahamed24&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" alt="trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akeelahamed24&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </div>
 
 ---
@@ -76,8 +81,10 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
 </div>
+
+> ℹ️ This snake uses **your own contribution graph** and expects the generator workflow in your profile repo (`akeelahamed24/akeelahamed24`) to publish to the `output` branch.
 
 ---
 
