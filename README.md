@@ -79,7 +79,7 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeelahamed24&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0a0008&title_color=00d4ff&text_color=ff2d78" alt="top languages"/>
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=akeelahamed24&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="trophies"/>
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=akeelahamed24&theme=onestar&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="trophies"/>
 </div>
 
 <div align="center">
