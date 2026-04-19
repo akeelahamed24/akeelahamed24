@@ -111,11 +111,13 @@
 >             dist/github-contribution-grid-snake.svg
 >             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 >
->       - uses: peaceiris/actions-gh-pages@v4
+>       - name: Push to output branch
+>         uses: crazy-max/ghaction-github-pages@v4
 >         with:
->           github_token: ${{ secrets.GITHUB_TOKEN }}
->           publish_branch: output
->           publish_dir: dist
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 > ```
 
 ---
