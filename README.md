@@ -84,7 +84,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akeelahamed24&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=a78bfa&line=6d28d9&point=7c3aed" alt="activity graph"/>
 </div>
 
+---
 
+## 🔥 Contribution Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeelahamed24&theme=tokyonight" width="100%" alt="contribution timeline"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akeelahamed24&theme=tokyonight" alt="repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akeelahamed24&theme=tokyonight" alt="most commit language"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akeelahamed24&theme=tokyonight" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akeelahamed24&theme=tokyonight&utcOffset=5.5" alt="productive time (IST)"/>
+
+</div>
 
 ---
 
