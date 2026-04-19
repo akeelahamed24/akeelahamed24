@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Akeel%20Ahamed%20R%20S&fontAlign=50&fontAlignY=38&color=0:0f0c29,40:1a1040,100:0d0d0d&fontColor=a78bfa&animation=fadeIn&desc=Building%20high-impact%20products%20with%20code%20✨&descAlignY=58&descSize=18&descFontColor=6d28d9&stroke=6d28d9&strokeWidth=1" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Akeel%20Ahamed%20R%20S&fontAlign=50&fontAlignY=38&color=0:0f0c29,40:1a1040,100:0d0d0d&fontColor=a78bfa&animation=fadeIn&desc=Building%20high-impact%20products%20with%20code%20%E2%9C%A8&descAlignY=58&descSize=18&descFontColor=6d28d9&stroke=6d28d9&strokeWidth=1" width="100%" alt="header"/>
 
 <div align="center">
 
@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%2B+Cloud+Builder;Open-Source+Learner;Turning+ideas+into+production+experiences" alt="typing intro"/>
 </p>
 
-<!-- JJK Shibuya Arc — sets the tone for the whole profile -->
-<img src="https://media.tenor.com/K_7k5JJjhbAAAAAM/jjk-jujutsu-kaisen-anime-shibuya-shibuya-arc.gif" width="720" alt="jjk shibuya arc banner"/>
+<img src="https://media1.tenor.com/m/MLPSSBIjrnQAAAAd/jjk-jujutsu-kaisen.gif" width="720" alt="jjk shibuya arc banner"/>
 
 <br/>
 
@@ -23,25 +22,15 @@
 
 ## ⚡ About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" width="300" src="https://media1.tenor.com/m/X9drSN03UMUAAAAd/satoru-gojo-acenando-satoru-gojo-hello.gif" alt="gojo hello" />
 
-- 🔭 Currently building **gamified digital experiences**
-- 🌱 Learning deeply: **Generative AI, React ecosystem, and AWS architecture**
-- 💬 Ask me about **Node.js, React, Firebase, API design, and deployment workflows**
-- 🎯 2026 Goal: **Ship faster, design cleaner systems, contribute to open source consistently**
+- 🔭 Currently building **gamified digital experiences**.
+- 🌱 Learning deeply: **Generative AI, React ecosystem, and AWS architecture**.
+- 💬 Ask me about **Node.js, React, Firebase, API design, and deployment workflows**.
+- 🎯 2026 Goal: **Ship faster, design cleaner systems, contribute to open source consistently**.
 - ⚡ Fun line: *"Gojo is basically serverless — limitless power, unpredictable billing."*
 
-</td>
-<td valign="top" align="center" width="40%">
-
-<!-- Gojo waving hello — fits the "about me" greeting perfectly -->
-<img src="https://media.tenor.com/BVrwKFXKbEYAAAAM/satoru-gojo-acenando-satoru-gojo-hello-gojo-satoru-acenando-gojo-satoru-hello-satoru-gojo.gif" width="280" alt="Gojo hello"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -65,8 +54,7 @@
 
 <div align="center">
 
-<!-- Choso punch — hitting you with the tech stack -->
-<img src="https://media.tenor.com/6cGLhBNcTUkAAAAM/jujutsu-kaisen-choso-naoya-zenin-punch-push-hair-back.gif" width="420" alt="choso punch tech stack"/>
+<img src="https://media1.tenor.com/m/b8-vS8__77UAAAAd/jujutsu-kaisen-choso.gif" width="380" alt="choso punch" />
 
 <br/><br/>
 
@@ -98,45 +86,51 @@
 
 ---
 
-## 🌌 Cursed Energy Commits
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<!-- 3D isometric contribution calendar — way cooler than a snake -->
-<img src="https://github-readme-stats.vercel.app/api?username=akeelahamed24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&hide=stars,issues&show=reviews,discussions_started" alt="extended stats" />
-
-<br/>
-
-<!-- Isometric 3D contribution graph via githubtrends -->
-<a href="https://githubtrends.io">
-  <img src="https://api.githubtrends.io/user/svg/akeelahamed24/langs?time_range=one_year&theme=dark&loc_metric=changed&compact=true" alt="langs over time"/>
-</a>
-
-<br/>
-
-<!-- Skyline-style 3D commit calendar via skyline.github.com — link to the interactive 3D page -->
-[![GitHub Skyline](https://img.shields.io/badge/🏙️%20My%20GitHub%20Skyline-View%20in%203D-7c3aed?style=for-the-badge&labelColor=0d0d0d)](https://skyline.github.com/akeelahamed24/2025)
-
-<!-- Animated Metrics — requires metrics Action in repo, but renders as a static embed if already generated -->
-<img src="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/main/github-metrics.svg" alt="GitHub Metrics" onerror="this.style.display='none'"/>
-
-<br/>
-
-<!-- Wakatime / Coding time stats — plug in your Wakatime username if set up -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akeelahamed24&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd" alt="wakatime"/>
--->
-
-<!-- Commit heatmap via GitHub Wrapped style -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeelahamed24&theme=tokyonight" alt="profile summary"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akeelahamed24&theme=tokyonight" alt="repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akeelahamed24&theme=tokyonight" alt="most commit language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akeelahamed24&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
+### ⚙️ Auto-generate the snake SVG (GitHub Actions)
+
+Add `.github/workflows/snake.yml` to your profile repo (`akeelahamed24/akeelahamed24`):
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: akeelahamed24
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> After committing, go to **Actions → Generate Snake → Run workflow** to trigger it once manually.
 
 ---
 
@@ -144,12 +138,11 @@
 
 <div align="center">
 
-<!-- Gojo limitless — the dev energy that never stops -->
-<img src="https://media.tenor.com/IHSNqEuFNBkAAAAM/jujutsu-kaisen-jjk-anime-gojo-satoru-gojo.gif" width="600" alt="gojo limitless dev vibe"/>
+<img width="680" src="https://media1.tenor.com/m/STXhuZ7MFf0AAAAd/jujutsu-kaisen-jjk.gif" alt="gojo dev vibe"/>
 
 <br/><br/>
 
-**Infinity knows no bugs. Thanks for stopping by — let's build something exceptional. 🚀**
+**Thanks for stopping by — let's build something exceptional. 🚀**
 
 </div>
 
