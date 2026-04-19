@@ -81,15 +81,25 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akeelahamed24/akeelahamed24/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-> **Setup:** Add this workflow to `.github/workflows/snake.yml` in your profile repo:
+> **Setup:** Add this workflow to `.github/workflows/snake.yml` in your profile repo (`akeelahamed24/akeelahamed24`):
 > ```yaml
 > name: Generate Snake
+>
 > on:
->   schedule: [{ cron: "0 0 * * *" }]
+>   schedule:
+>     - cron: "0 0 * * *"
 >   workflow_dispatch:
+>
+> permissions:
+>   contents: write
+>
 > jobs:
 >   generate:
 >     runs-on: ubuntu-latest
@@ -100,12 +110,12 @@
 >           outputs: |
 >             dist/github-contribution-grid-snake.svg
 >             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>
+>       - uses: peaceiris/actions-gh-pages@v4
 >         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>           github_token: ${{ secrets.GITHUB_TOKEN }}
+>           publish_branch: output
+>           publish_dir: dist
 > ```
 
 ---
