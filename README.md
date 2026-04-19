@@ -79,7 +79,6 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeelahamed24&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0a0008&title_color=00d4ff&text_color=ff2d78" alt="top languages"/>
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=akeelahamed24&theme=flat&no-frame=true&column=4" />
 </div>
 
 <div align="center">
