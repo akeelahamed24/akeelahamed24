@@ -26,8 +26,8 @@
 
 <img align="right" width="300" src="https://media1.tenor.com/m/X9drSN03UMUAAAAd/satoru-gojo-acenando-satoru-gojo-hello.gif" alt="gojo hello" />
 
-- 🔭 Currently building **gamified digital experiences**.
-- 🌱 Learning deeply: **Generative AI, React ecosystem, and AWS architecture**.
+- 🔭 Currently exploring **RAG and MCP based AI applications**.
+- 🌱 Learning deeply: **Generative AI, React ecosystem, and Java Springboot**.
 - 💬 Ask me about **Node.js, React, Firebase, API design, and deployment workflows**.
 - 🎯 2026 Goal: **Ship faster, design cleaner systems, contribute to open source consistently**.
 - ⚡ Fun line: *"Gojo is basically serverless — limitless power, unpredictable billing."*
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/akeelahamed242k5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://akeelahamed-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0a0008?style=for-the-badge&logo=vercel&logoColor=00d4ff" alt="portfolio"/>
   </a>
 </div>
@@ -116,7 +116,7 @@
 
 <br/><br/>
 
-**Thanks for stopping by — let's build something exceptional. 🚀**
+**Thanks for stopping by — let's build something exceptional :). 🚀**
 
 </div>
 
